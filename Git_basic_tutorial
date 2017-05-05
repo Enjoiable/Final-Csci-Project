@@ -5,8 +5,8 @@ cd                                                             //Go to your home
 mkdir whatevyouwant                                            //Make a directory to do the project in
 cd whatevyouwant                                               //Go to directory you want to do the project in
 git init                                                       //start git 
-git config --global user.email "yourgithubemail"               //tell git who you are 
-git config --global user.name "yourgithubname"
+git config --global user.email "you@gmail.com.."               //tell git who you are 
+git config --global user.name "YOUR_user_name_here "
 git config --global push.default simple                        //do this unless you want to read about git pushing configs
 git remote add whatevyouwant https://github.com/csci41project/Final-Csci-Project     //Set the git location
 git pull whatevyouwant master                                  //copy the directory to your directory, creating master
